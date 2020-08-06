@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/maga/static/css/main.5f361e03.chunk.css",
+    "main.js": "/maga/static/js/main.ed3f63e7.chunk.js",
+    "main.js.map": "/maga/static/js/main.ed3f63e7.chunk.js.map",
+    "runtime-main.js": "/maga/static/js/runtime-main.cc38bbba.js",
+    "runtime-main.js.map": "/maga/static/js/runtime-main.cc38bbba.js.map",
+    "static/js/2.29384431.chunk.js": "/maga/static/js/2.29384431.chunk.js",
+    "static/js/2.29384431.chunk.js.map": "/maga/static/js/2.29384431.chunk.js.map",
+    "index.html": "/maga/index.html",
+    "precache-manifest.418df1ffb7ad6e23cbf090b584820801.js": "/maga/precache-manifest.418df1ffb7ad6e23cbf090b584820801.js",
+    "service-worker.js": "/maga/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/maga/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.29384431.chunk.js.LICENSE.txt": "/maga/static/js/2.29384431.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/maga/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc38bbba.js",
+    "static/js/2.29384431.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.ed3f63e7.chunk.js"
+  ]
+}
