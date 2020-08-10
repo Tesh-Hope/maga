@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5c43ebc70019e7b48a001bc517807ddf",
+    "revision": "6f7ab885da3808d00c36f9b0e96f7d32",
     "url": "/maga/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/maga/static/css/2.f3cffc9e.chunk.css"
   },
   {
-    "revision": "36fc59b2df00ff1cfdd0",
+    "revision": "0aea6e34855103dd3ede",
     "url": "/maga/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/maga/static/js/2.c329f9dc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "36fc59b2df00ff1cfdd0",
-    "url": "/maga/static/js/main.c90539cb.chunk.js"
+    "revision": "0aea6e34855103dd3ede",
+    "url": "/maga/static/js/main.e9f80615.chunk.js"
   },
   {
     "revision": "fb79b7240f40a7a0bdea",
